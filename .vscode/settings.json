@@ -1,0 +1,6 @@
+{
+  // 默认格式化工具prettier
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // 保存时格式化
+  "editor.formatOnSave": true
+}
