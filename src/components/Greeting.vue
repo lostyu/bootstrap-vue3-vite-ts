@@ -5,7 +5,7 @@
 </template>
 
 <script setup lang="ts">
-const greeting = 'Vue and 11 TDD';
+const greeting = 'Vue and 122221 TDD';
 </script>
 
 <style scoped></style>
